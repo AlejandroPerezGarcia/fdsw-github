@@ -22,9 +22,15 @@ body {
 
 /* Contacto */
 
+#Contacto{
+   background-color: rgb(0, 8, 255);
+   color: azure;
+}
+
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: azure;
+ 
 }
 
 @media (max-width: 768px) {
@@ -37,3 +43,5 @@ body {
   }
 
 }
+
+
